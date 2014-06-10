@@ -1,3 +1,0 @@
-hi adding one line 
-
-this line after git add
